@@ -9,6 +9,6 @@ iplayer2://import?payload=eyJyb29tTmFtZSI6Ijkx55u05pKtIiwidXJsIjoiaHR0cHM6XC9cL2
 ```
 方式二：手动添加链接和封面（可选）并输入名称
 ```
-https://cdn.jsdelivr.net/gh/he1pu/iPlayerJS/91zb.js
-https://cdn.jsdelivr.net/gh/he1pu/iPlayerJS/images/91zb.png
+链接：https://cdn.jsdelivr.net/gh/he1pu/iPlayerJS/91zb.js
+封面：https://cdn.jsdelivr.net/gh/he1pu/iPlayerJS/images/91zb.png
 ```
