@@ -5,9 +5,10 @@
 ### 91直播
 方式一：复制下面链接到Safari中打开
 ```
-
+iplayer2://import?payload=eyJyb29tTmFtZSI6Ijkx55u05pKtIiwidXJsIjoiaHR0cHM6XC9cL2Nkbi5qc2RlbGl2ci5uZXRcL2doXC9oZTFwdVwvaVBsYXllckpTXC85MXpiLmpzIiwicGxhdGZvcm0iOiJ0Z0Bpc2hhcmVkIiwiY292ZXJJbWFnZSI6Imh0dHBzOlwvXC9jZG4uanNkZWxpdnIubmV0XC9naFwvaGUxcHVcL2lQbGF5ZXJKU1wvaW1hZ2VzXC85MXpiLnBuZyJ9
 ```
-方式二：手动添加链接
+方式二：手动添加链接和封面（可选）并输入名称
 ```
-https://raw.githubusercontent.com/he1pu/iPlayerJS/refs/heads/main/91zb.js
+https://cdn.jsdelivr.net/gh/he1pu/iPlayerJS/91zb.js
+https://cdn.jsdelivr.net/gh/he1pu/iPlayerJS/images/91zb.png
 ```
