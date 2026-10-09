@@ -12,3 +12,15 @@ iplayer2://import?payload=eyJyb29tTmFtZSI6Ijkx55u05pKtIiwidXJsIjoiaHR0cHM6XC9cL2
 链接：https://cdn.jsdelivr.net/gh/he1pu/iPlayerJS/91zb.js
 封面：https://cdn.jsdelivr.net/gh/he1pu/iPlayerJS/images/91zb.png
 ```
+
+
+### 小红帽（xhm.js）
+方式一：复制下面链接，打开iPlayer自动识别，如果失败在Safari中打开
+```
+iplayer2://import?payload=eyJ1cmwiOiJodHRwczpcL1wvY2RuLmpzZGVsaXZyLm5ldFwvZ2hcL2hlMXB1XC9pUGxheWVySlNcL3hobS5qcyIsInJvb21OYW1lIjoi5bCP57qi5bi9IiwiY292ZXJJbWFnZSI6Imh0dHBzOlwvXC9jZG4uanNkZWxpdnIubmV0XC9naFwvaGUxcHVcL2lQbGF5ZXJKU1wvaW1hZ2VzXC94aG0ucG5nIiwicGxhdGZvcm0iOiJ0Z0BpU2hhcmVkIn0%3D
+```
+方式二：手动添加链接和封面（可选）并输入名称
+```
+链接：https://cdn.jsdelivr.net/gh/he1pu/iPlayerJS/xhm.js
+封面：https://cdn.jsdelivr.net/gh/he1pu/iPlayerJS/images/xhm.png
+```
